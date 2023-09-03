@@ -1,0 +1,11 @@
+date;temperature;humidity;precipitation;windspeed;event
+01.01.2023;25 C;25;0 mm;12;Sunny
+01.02.2023;23 C;1000;0 mm;10;No Event
+01.05.2023;1000;1000;9 mm;1000;Rain
+01.06.2023;26 C;62;1000;15;Cloudy
+01.07.2023;1000;68;1000;14;No Event
+01.08.2023;21 C;80;15 mm;20;Rain
+01.09.2023;27 C;1000;2 mm;1000;Cloudy
+01.10.2023;1000;72;0 mm;1000;Sunny
+01.11.2023;1000;1000;1000;1000;No Event
+01.12.2023;20 C;1000;10 mm;22;Rain
